@@ -24,7 +24,7 @@ Com isso a funcionalidade de pré carregamento de sessões foi desabilitado.
 ### startup
 
 O start-up é feito usando o comando: 
- ``bash
+ ```bash
  rh-sso-7.5.0-server-dist/rh-sso-7.5/bin/standalone.sh
  ```
 
